@@ -78,7 +78,7 @@ For any issues or questions, refer to the provided [code explanation video](http
 ## Authors
 
 Dev Sagar  
-[@DevSGitub2](https://github.com/DevSGitub2)
+[DevSGithub2](https://github.com/DevSGitub2)
 
 ## License
 
